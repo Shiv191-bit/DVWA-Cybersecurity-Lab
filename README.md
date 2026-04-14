@@ -16,7 +16,7 @@
 
 ### 4. File Inclusion (Task 4)
 * **Vulnerability:** Local File Inclusion (LFI).
-* **Screenshot:** ![LFI](./TASK%204%20FILE%20INCLUSION.png)
+* **Screenshot:** !![LFI](./TASK%204%20FILE%20INCLUSION%20.png)
 
 ### 5. Burp Suite Intercept (Task 5A)
 * **Vulnerability:** Man-in-the-Middle susceptibility.
