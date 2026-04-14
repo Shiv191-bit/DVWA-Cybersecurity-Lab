@@ -8,7 +8,7 @@
 
 ### 2. Cross-Site Scripting (Task 2)
 * **Vulnerability:** Reflected and Stored XSS.
-* **Screenshot:** ![XSS](./TASK%202%20Cross-Site%20Scripting%20(XSS).png)
+* **Screenshot:** ![XSS](./xss.png)
 
 ### 3. CSRF (Task 3)
 * **Vulnerability:** Cross-Site Request Forgery.
@@ -16,7 +16,7 @@
 
 ### 4. File Inclusion (Task 4)
 * **Vulnerability:** Local File Inclusion (LFI).
-* **Screenshot:** ![LFI](./TASK%204%20FILE%20INCLUSION%20%20.png)
+* **Screenshot:** ![LFI](./lfi.png)
 
 ### 5. Burp Suite Intercept (Task 5A)
 * **Vulnerability:** Man-in-the-Middle susceptibility.
